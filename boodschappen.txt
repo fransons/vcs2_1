@@ -5,6 +5,3 @@ pasta:
 - sojasaus
 - basilicum
 - zonebloem-olie
-
-ontbijt :
-- banaan
